@@ -1,0 +1,9 @@
+2023-07-08T17:19:44.456-04:00  INFO 52780 --- [main] com.nowcoder.community.LoggerTests       : Starting LoggerTests using Java 17.0.7 with PID 52780 (started by falls in D:\work\workspace\community)
+2023-07-08T17:19:44.457-04:00 DEBUG 52780 --- [main] com.nowcoder.community.LoggerTests       : Running with Spring Boot v3.1.1, Spring v6.0.10
+2023-07-08T17:19:44.458-04:00  INFO 52780 --- [main] com.nowcoder.community.LoggerTests       : No active profile set, falling back to 1 default profile: "default"
+2023-07-08T17:19:45.839-04:00  INFO 52780 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2023-07-08T17:19:46.046-04:00  INFO 52780 --- [main] com.nowcoder.community.LoggerTests       : Started LoggerTests in 1.919 seconds (process running for 2.599)
+2023-07-08T17:19:46.962-04:00 DEBUG 52780 --- [main] com.nowcoder.community.LoggerTests       : debug log
+2023-07-08T17:19:46.963-04:00  INFO 52780 --- [main] com.nowcoder.community.LoggerTests       : info log
+2023-07-08T17:19:46.963-04:00  WARN 52780 --- [main] com.nowcoder.community.LoggerTests       : warn log
+2023-07-08T17:19:46.963-04:00 ERROR 52780 --- [main] com.nowcoder.community.LoggerTests       : error log
