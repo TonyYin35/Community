@@ -8,7 +8,7 @@ java.io.FileNotFoundException: d:\work\data\upload\b2c6ec3c5f99456ea795f4ea507c6
 	at org.apache.tomcat.util.http.fileupload.disk.DiskFileItem.write(DiskFileItem.java:407)
 	at org.apache.catalina.core.ApplicationPart.write(ApplicationPart.java:117)
 	at org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile.transferTo(StandardMultipartHttpServletRequest.java:254)
-	at com.nowcoder.community.controller.interceptor.UserController.uploadHeader(UserController.java:71)
+	at com.nowcoder.community.controller.UserController.uploadHeader(UserController.java:71)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)

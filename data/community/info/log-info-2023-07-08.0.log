@@ -1,5 +1,0 @@
-2023-07-08 17:32:23,007 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:51] Starting LoggerTests using Java 17.0.7 with PID 47328 (started by falls in D:\work\workspace\community)
-2023-07-08 17:32:23,010 INFO [main] c.n.c.LoggerTests [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
-2023-07-08 17:32:24,486 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
-2023-07-08 17:32:24,686 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:57] Started LoggerTests in 2.114 seconds (process running for 2.785)
-2023-07-08 17:32:25,593 INFO [main] c.n.c.LoggerTests [LoggerTests.java:23] info log
