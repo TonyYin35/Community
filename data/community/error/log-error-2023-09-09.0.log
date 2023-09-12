@@ -1,14 +1,6 @@
-2023-08-05 02:00:49,866 ERROR [http-nio-8080-exec-3] c.n.c.c.i.UserController [UserController.java:73] 上传文件失败: java.io.FileNotFoundException: d:\work\data\upload\b2c6ec3c5f99456ea795f4ea507c65ee.jpg (The system cannot find the path specified)
-2023-08-05 02:00:49,873 ERROR [http-nio-8080-exec-3] o.a.c.c.C.[.[.[.[dispatcherServlet] [DirectJDKLog.java:175] Servlet.service() for servlet [dispatcherServlet] in context with path [/community] threw exception [Request processing failed: java.lang.RuntimeException: 上传文件失败，服务器发生异常！] with root cause
-java.io.FileNotFoundException: d:\work\data\upload\b2c6ec3c5f99456ea795f4ea507c65ee.jpg (The system cannot find the path specified)
-	at java.base/java.io.FileOutputStream.open0(Native Method)
-	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:293)
-	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:235)
-	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:184)
-	at org.apache.tomcat.util.http.fileupload.disk.DiskFileItem.write(DiskFileItem.java:407)
-	at org.apache.catalina.core.ApplicationPart.write(ApplicationPart.java:117)
-	at org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile.transferTo(StandardMultipartHttpServletRequest.java:254)
-	at com.nowcoder.community.controller.UserController.uploadHeader(UserController.java:71)
+2023-09-09 00:33:55,208 ERROR [http-nio-8080-exec-2] o.a.c.c.C.[.[.[.[dispatcherServlet] [DirectJDKLog.java:175] Servlet.service() for servlet [dispatcherServlet] in context with path [/community] threw exception [Request processing failed: java.lang.NullPointerException: Cannot invoke "com.nowcoder.community.entity.User.getId()" because "user" is null] with root cause
+java.lang.NullPointerException: Cannot invoke "com.nowcoder.community.entity.User.getId()" because "user" is null
+	at com.nowcoder.community.controller.LikeController.like(LikeController.java:32)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -59,5 +51,3 @@ java.io.FileNotFoundException: d:\work\data\upload\b2c6ec3c5f99456ea795f4ea507c6
 	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
 	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
 	at java.base/java.lang.Thread.run(Thread.java:833)
-2023-08-05 02:49:42,725 ERROR [http-nio-8080-exec-6] c.n.c.c.i.UserController [UserController.java:104] 读取图像失败: d:\work\workspace\community\data\upload\9ffe5ed72e0241c18632d9148d9f1f87.jpg (The system cannot find the file specified)
-2023-08-05 02:49:44,951 ERROR [http-nio-8080-exec-10] c.n.c.c.i.UserController [UserController.java:104] 读取图像失败: d:\work\workspace\community\data\upload\9ffe5ed72e0241c18632d9148d9f1f87.jpg (The system cannot find the file specified)

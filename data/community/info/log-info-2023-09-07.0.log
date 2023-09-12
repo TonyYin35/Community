@@ -1,0 +1,136 @@
+2023-09-07 00:00:50,526 INFO [main] c.n.c.RedisTests [StartupInfoLogger.java:51] Starting RedisTests using Java 17.0.7 with PID 14056 (started by falls in D:\work\workspace\community)
+2023-09-07 00:00:50,532 INFO [main] c.n.c.RedisTests [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2023-09-07 00:00:51,149 INFO [main] o.s.d.r.c.RepositoryConfigurationDelegate [RepositoryConfigurationDelegate.java:291] Multiple Spring Data modules found, entering strict repository configuration mode
+2023-09-07 00:00:51,152 INFO [main] o.s.d.r.c.RepositoryConfigurationDelegate [RepositoryConfigurationDelegate.java:138] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-09-07 00:00:51,181 INFO [main] o.s.d.r.c.RepositoryConfigurationDelegate [RepositoryConfigurationDelegate.java:208] Finished Spring Data repository scanning in 10 ms. Found 0 Redis repository interfaces.
+2023-09-07 00:00:52,826 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-09-07 00:00:53,091 INFO [main] c.n.c.RedisTests [StartupInfoLogger.java:57] Started RedisTests in 3.037 seconds (process running for 3.874)
+2023-09-07 00:03:05,051 INFO [main] c.n.c.RedisConfigPrinter [StartupInfoLogger.java:51] Starting RedisConfigPrinter using Java 17.0.7 with PID 18028 (started by falls in D:\work\workspace\community)
+2023-09-07 00:03:05,053 INFO [main] c.n.c.RedisConfigPrinter [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2023-09-07 00:03:05,708 INFO [main] o.s.d.r.c.RepositoryConfigurationDelegate [RepositoryConfigurationDelegate.java:291] Multiple Spring Data modules found, entering strict repository configuration mode
+2023-09-07 00:03:05,711 INFO [main] o.s.d.r.c.RepositoryConfigurationDelegate [RepositoryConfigurationDelegate.java:138] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-09-07 00:03:05,741 INFO [main] o.s.d.r.c.RepositoryConfigurationDelegate [RepositoryConfigurationDelegate.java:208] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2023-09-07 00:03:07,442 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-09-07 00:03:07,733 INFO [main] c.n.c.RedisConfigPrinter [StartupInfoLogger.java:57] Started RedisConfigPrinter in 3.098 seconds (process running for 3.924)
+2023-09-07 00:03:46,575 INFO [main] c.n.c.RedisConfigPrinter [StartupInfoLogger.java:51] Starting RedisConfigPrinter using Java 17.0.7 with PID 20728 (started by falls in D:\work\workspace\community)
+2023-09-07 00:03:46,577 INFO [main] c.n.c.RedisConfigPrinter [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2023-09-07 00:03:47,216 INFO [main] o.s.d.r.c.RepositoryConfigurationDelegate [RepositoryConfigurationDelegate.java:291] Multiple Spring Data modules found, entering strict repository configuration mode
+2023-09-07 00:03:47,219 INFO [main] o.s.d.r.c.RepositoryConfigurationDelegate [RepositoryConfigurationDelegate.java:138] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-09-07 00:03:47,247 INFO [main] o.s.d.r.c.RepositoryConfigurationDelegate [RepositoryConfigurationDelegate.java:208] Finished Spring Data repository scanning in 10 ms. Found 0 Redis repository interfaces.
+2023-09-07 00:03:49,041 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-09-07 00:03:49,383 INFO [main] c.n.c.RedisConfigPrinter [StartupInfoLogger.java:57] Started RedisConfigPrinter in 3.233 seconds (process running for 4.093)
+2023-09-07 00:26:23,606 INFO [main] c.n.c.RedisTests [StartupInfoLogger.java:51] Starting RedisTests using Java 17.0.7 with PID 4988 (started by falls in D:\work\workspace\community)
+2023-09-07 00:26:23,610 INFO [main] c.n.c.RedisTests [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2023-09-07 00:26:24,498 INFO [main] o.s.d.r.c.RepositoryConfigurationDelegate [RepositoryConfigurationDelegate.java:291] Multiple Spring Data modules found, entering strict repository configuration mode
+2023-09-07 00:26:24,501 INFO [main] o.s.d.r.c.RepositoryConfigurationDelegate [RepositoryConfigurationDelegate.java:138] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-09-07 00:26:24,534 INFO [main] o.s.d.r.c.RepositoryConfigurationDelegate [RepositoryConfigurationDelegate.java:208] Finished Spring Data repository scanning in 11 ms. Found 0 Redis repository interfaces.
+2023-09-07 00:26:26,198 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-09-07 00:26:26,464 INFO [main] c.n.c.RedisTests [StartupInfoLogger.java:57] Started RedisTests in 3.286 seconds (process running for 4.235)
+2023-09-07 20:02:19,755 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:51] Starting CommunityApplication using Java 17.0.7 with PID 17984 (D:\work\workspace\community\target\classes started by falls in D:\work\workspace\community)
+2023-09-07 20:02:19,758 INFO [restartedMain] c.n.c.CommunityApplication [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2023-09-07 20:02:19,828 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:250] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-09-07 20:02:19,828 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:250] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-09-07 20:02:21,186 INFO [restartedMain] o.s.d.r.c.RepositoryConfigurationDelegate [RepositoryConfigurationDelegate.java:291] Multiple Spring Data modules found, entering strict repository configuration mode
+2023-09-07 20:02:21,189 INFO [restartedMain] o.s.d.r.c.RepositoryConfigurationDelegate [RepositoryConfigurationDelegate.java:138] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-09-07 20:02:21,220 INFO [restartedMain] o.s.d.r.c.RepositoryConfigurationDelegate [RepositoryConfigurationDelegate.java:208] Finished Spring Data repository scanning in 11 ms. Found 0 Redis repository interfaces.
+2023-09-07 20:02:22,317 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2023-09-07 20:02:22,327 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2023-09-07 20:02:22,331 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2023-09-07 20:02:22,332 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-09-07 20:02:22,435 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2023-09-07 20:02:22,438 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:291] Root WebApplicationContext: initialization completed in 2607 ms
+2023-09-07 20:02:24,065 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-09-07 20:02:24,380 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:59] LiveReload server is running on port 35729
+2023-09-07 20:02:24,395 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2023-09-07 20:02:24,417 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/community'
+2023-09-07 20:02:24,426 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:57] Started CommunityApplication in 5.478 seconds (process running for 8.14)
+2023-09-07 20:03:15,014 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-09-07 20:03:15,015 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:532] Initializing Servlet 'dispatcherServlet'
+2023-09-07 20:03:15,016 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:554] Completed initialization in 1 ms
+2023-09-07 20:03:15,073 INFO [http-nio-8080-exec-1] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:15],访问了[com.nowcoder.community.service.DiscussPostService.findDiscussPostById].
+2023-09-07 20:03:15,091 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2023-09-07 20:03:15,401 INFO [http-nio-8080-exec-1] c.z.h.p.HikariPool [HikariPool.java:565] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@404e0038
+2023-09-07 20:03:15,402 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2023-09-07 20:03:15,500 INFO [http-nio-8080-exec-1] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:15],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:03:15,504 INFO [http-nio-8080-exec-1] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:15],访问了[com.nowcoder.community.service.CommentService.findCommentsByEntity].
+2023-09-07 20:03:15,511 INFO [http-nio-8080-exec-1] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:15],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:03:15,514 INFO [http-nio-8080-exec-1] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:15],访问了[com.nowcoder.community.service.CommentService.findCommentsByEntity].
+2023-09-07 20:03:15,517 INFO [http-nio-8080-exec-1] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:15],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:03:15,521 INFO [http-nio-8080-exec-1] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:15],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:03:15,525 INFO [http-nio-8080-exec-1] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:15],访问了[com.nowcoder.community.service.CommentService.findCommentCount].
+2023-09-07 20:03:15,530 INFO [http-nio-8080-exec-1] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:15],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:03:15,533 INFO [http-nio-8080-exec-1] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:15],访问了[com.nowcoder.community.service.CommentService.findCommentsByEntity].
+2023-09-07 20:03:15,535 INFO [http-nio-8080-exec-1] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:15],访问了[com.nowcoder.community.service.CommentService.findCommentCount].
+2023-09-07 20:03:15,537 INFO [http-nio-8080-exec-1] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:15],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:03:15,540 INFO [http-nio-8080-exec-1] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:15],访问了[com.nowcoder.community.service.CommentService.findCommentsByEntity].
+2023-09-07 20:03:15,543 INFO [http-nio-8080-exec-1] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:15],访问了[com.nowcoder.community.service.CommentService.findCommentCount].
+2023-09-07 20:03:15,545 INFO [http-nio-8080-exec-1] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:15],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:03:15,548 INFO [http-nio-8080-exec-1] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:15],访问了[com.nowcoder.community.service.CommentService.findCommentsByEntity].
+2023-09-07 20:03:15,552 INFO [http-nio-8080-exec-1] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:15],访问了[com.nowcoder.community.service.CommentService.findCommentCount].
+2023-09-07 20:03:15,555 INFO [http-nio-8080-exec-1] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:15],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:03:15,558 INFO [http-nio-8080-exec-1] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:15],访问了[com.nowcoder.community.service.CommentService.findCommentsByEntity].
+2023-09-07 20:03:15,560 INFO [http-nio-8080-exec-1] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:15],访问了[com.nowcoder.community.service.CommentService.findCommentCount].
+2023-09-07 20:03:23,881 INFO [http-nio-8080-exec-1] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:23],访问了[com.nowcoder.community.service.UserService.login].
+2023-09-07 20:03:23,920 INFO [http-nio-8080-exec-3] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:23],访问了[com.nowcoder.community.service.UserService.findLoginTicket].
+2023-09-07 20:03:23,923 INFO [http-nio-8080-exec-3] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:23],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:03:23,926 INFO [http-nio-8080-exec-3] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:23],访问了[com.nowcoder.community.service.DiscussPostService.findDiscussPostRows].
+2023-09-07 20:03:23,953 INFO [http-nio-8080-exec-3] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:23],访问了[com.nowcoder.community.service.DiscussPostService.findDiscussPosts].
+2023-09-07 20:03:23,959 INFO [http-nio-8080-exec-3] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:23],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:03:23,961 INFO [http-nio-8080-exec-3] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:23],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:03:23,964 INFO [http-nio-8080-exec-3] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:23],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:03:23,967 INFO [http-nio-8080-exec-3] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:23],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:03:23,969 INFO [http-nio-8080-exec-3] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:23],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:03:23,972 INFO [http-nio-8080-exec-3] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:23],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:03:23,977 INFO [http-nio-8080-exec-3] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:23],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:03:23,980 INFO [http-nio-8080-exec-3] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:23],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:03:23,983 INFO [http-nio-8080-exec-3] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:23],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:03:23,986 INFO [http-nio-8080-exec-3] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:23],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:03:26,116 INFO [http-nio-8080-exec-7] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:26],访问了[com.nowcoder.community.service.UserService.findLoginTicket].
+2023-09-07 20:03:26,120 INFO [http-nio-8080-exec-7] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:26],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:03:26,124 INFO [http-nio-8080-exec-7] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:26],访问了[com.nowcoder.community.service.DiscussPostService.findDiscussPostById].
+2023-09-07 20:03:26,129 INFO [http-nio-8080-exec-7] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:26],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:03:26,134 INFO [http-nio-8080-exec-7] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:26],访问了[com.nowcoder.community.service.CommentService.findCommentsByEntity].
+2023-09-07 20:03:26,138 INFO [http-nio-8080-exec-7] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:26],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:03:26,140 INFO [http-nio-8080-exec-7] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:26],访问了[com.nowcoder.community.service.CommentService.findCommentsByEntity].
+2023-09-07 20:03:26,143 INFO [http-nio-8080-exec-7] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:26],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:03:26,145 INFO [http-nio-8080-exec-7] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:26],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:03:26,148 INFO [http-nio-8080-exec-7] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:26],访问了[com.nowcoder.community.service.CommentService.findCommentCount].
+2023-09-07 20:03:26,150 INFO [http-nio-8080-exec-7] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:26],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:03:26,152 INFO [http-nio-8080-exec-7] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:26],访问了[com.nowcoder.community.service.CommentService.findCommentsByEntity].
+2023-09-07 20:03:26,154 INFO [http-nio-8080-exec-7] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:26],访问了[com.nowcoder.community.service.CommentService.findCommentCount].
+2023-09-07 20:03:26,156 INFO [http-nio-8080-exec-7] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:26],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:03:26,158 INFO [http-nio-8080-exec-7] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:26],访问了[com.nowcoder.community.service.CommentService.findCommentsByEntity].
+2023-09-07 20:03:26,160 INFO [http-nio-8080-exec-7] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:26],访问了[com.nowcoder.community.service.CommentService.findCommentCount].
+2023-09-07 20:03:26,162 INFO [http-nio-8080-exec-7] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:26],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:03:26,164 INFO [http-nio-8080-exec-7] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:26],访问了[com.nowcoder.community.service.CommentService.findCommentsByEntity].
+2023-09-07 20:03:26,166 INFO [http-nio-8080-exec-7] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:26],访问了[com.nowcoder.community.service.CommentService.findCommentCount].
+2023-09-07 20:03:26,168 INFO [http-nio-8080-exec-7] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:26],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:03:26,170 INFO [http-nio-8080-exec-7] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:26],访问了[com.nowcoder.community.service.CommentService.findCommentsByEntity].
+2023-09-07 20:03:26,172 INFO [http-nio-8080-exec-7] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:03:26],访问了[com.nowcoder.community.service.CommentService.findCommentCount].
+2023-09-07 20:05:24,951 INFO [http-nio-8080-exec-9] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:05:24],访问了[com.nowcoder.community.service.UserService.findLoginTicket].
+2023-09-07 20:05:24,954 INFO [http-nio-8080-exec-9] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:05:24],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:05:24,958 INFO [http-nio-8080-exec-9] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:05:24],访问了[com.nowcoder.community.service.LikeService.like].
+2023-09-07 20:05:27,193 INFO [http-nio-8080-exec-9] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:05:27],访问了[com.nowcoder.community.service.LikeService.findEntityLikeCount].
+2023-09-07 20:05:27,196 INFO [http-nio-8080-exec-9] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:05:27],访问了[com.nowcoder.community.service.LikeService.findEntityLikeStatus].
+2023-09-07 20:05:27,492 INFO [http-nio-8080-exec-8] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:05:27],访问了[com.nowcoder.community.service.UserService.findLoginTicket].
+2023-09-07 20:05:27,494 INFO [http-nio-8080-exec-8] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:05:27],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:05:27,496 INFO [http-nio-8080-exec-8] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:05:27],访问了[com.nowcoder.community.service.LikeService.like].
+2023-09-07 20:05:27,499 INFO [http-nio-8080-exec-8] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:05:27],访问了[com.nowcoder.community.service.LikeService.findEntityLikeCount].
+2023-09-07 20:05:27,501 INFO [http-nio-8080-exec-8] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:05:27],访问了[com.nowcoder.community.service.LikeService.findEntityLikeStatus].
+2023-09-07 20:05:28,104 INFO [http-nio-8080-exec-7] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:05:28],访问了[com.nowcoder.community.service.UserService.findLoginTicket].
+2023-09-07 20:05:28,105 INFO [http-nio-8080-exec-7] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:05:28],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:05:28,107 INFO [http-nio-8080-exec-7] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:05:28],访问了[com.nowcoder.community.service.LikeService.like].
+2023-09-07 20:05:28,110 INFO [http-nio-8080-exec-7] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:05:28],访问了[com.nowcoder.community.service.LikeService.findEntityLikeCount].
+2023-09-07 20:05:28,111 INFO [http-nio-8080-exec-7] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:05:28],访问了[com.nowcoder.community.service.LikeService.findEntityLikeStatus].
+2023-09-07 20:05:29,063 INFO [http-nio-8080-exec-10] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:05:29],访问了[com.nowcoder.community.service.UserService.findLoginTicket].
+2023-09-07 20:05:29,066 INFO [http-nio-8080-exec-10] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:05:29],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:05:29,068 INFO [http-nio-8080-exec-10] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:05:29],访问了[com.nowcoder.community.service.LikeService.like].
+2023-09-07 20:05:29,069 INFO [http-nio-8080-exec-10] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:05:29],访问了[com.nowcoder.community.service.LikeService.findEntityLikeCount].
+2023-09-07 20:05:29,070 INFO [http-nio-8080-exec-10] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:05:29],访问了[com.nowcoder.community.service.LikeService.findEntityLikeStatus].
+2023-09-07 20:05:29,672 INFO [http-nio-8080-exec-1] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:05:29],访问了[com.nowcoder.community.service.UserService.findLoginTicket].
+2023-09-07 20:05:29,674 INFO [http-nio-8080-exec-1] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:05:29],访问了[com.nowcoder.community.service.UserService.findUserById].
+2023-09-07 20:05:29,676 INFO [http-nio-8080-exec-1] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:05:29],访问了[com.nowcoder.community.service.LikeService.like].
+2023-09-07 20:05:29,677 INFO [http-nio-8080-exec-1] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:05:29],访问了[com.nowcoder.community.service.LikeService.findEntityLikeCount].
+2023-09-07 20:05:29,678 INFO [http-nio-8080-exec-1] c.n.c.a.ServiceLogAspect [ServiceLogAspect.java:36] 用户[0:0:0:0:0:0:0:1],在[2023-09-07 20:05:29],访问了[com.nowcoder.community.service.LikeService.findEntityLikeStatus].
+2023-09-07 22:24:14,528 INFO [SpringApplicationShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2023-09-07 22:24:14,532 INFO [SpringApplicationShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
