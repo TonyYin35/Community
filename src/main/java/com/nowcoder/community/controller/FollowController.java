@@ -47,7 +47,7 @@ public class FollowController implements CommunityConstant {
         // 触发关注事件
         Event event = new Event()
                 .setTopic(TOPIC_FOLLOW)
-                .setEntityId(hostHolder.getUser().getId())
+                .setUserId(hostHolder.getUser().getId())
                 .setEntityType(entityType)
                 .setEntityId(entityId)
                 .setEntityUserId(entityId);
@@ -79,7 +79,7 @@ public class FollowController implements CommunityConstant {
 
         page.setLimit(5);
         page.setPath("/followees/" + userId);
-        page.setRows((int)followService.findFolloweeCount(userId, CommunityConstant.ENTITY_TYPE_USER));
+        page.setRows((int)followService.findFolloweeCount(userId, ENTITY_TYPE_USER));
 
         List<Map<String, Object>> userList = followService.findFollowees(userId, page.getOffset(), page.getLimit());
         if (userList != null) {

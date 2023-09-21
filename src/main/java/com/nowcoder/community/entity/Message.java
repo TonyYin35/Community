@@ -10,19 +10,7 @@ public class Message {
     private String conversationId;
     private String content;
     private int status;
-
-    @Override
-    public String toString() {
-        return "Message{" +
-                "id=" + id +
-                ", fromId=" + fromId +
-                ", toId=" + toId +
-                ", conversationId='" + conversationId + '\'' +
-                ", content='" + content + '\'' +
-                ", status=" + status +
-                ", createTime=" + createTime +
-                '}';
-    }
+    private Date createTime;
 
     public int getId() {
         return id;
@@ -80,5 +68,16 @@ public class Message {
         this.createTime = createTime;
     }
 
-    private Date createTime;
+    @Override
+    public String toString() {
+        return "Message{" +
+                "id=" + id +
+                ", fromId=" + fromId +
+                ", toId=" + toId +
+                ", conversationId='" + conversationId + '\'' +
+                ", content='" + content + '\'' +
+                ", status=" + status +
+                ", createTime=" + createTime +
+                '}';
+    }
 }
