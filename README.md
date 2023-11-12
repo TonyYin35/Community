@@ -1,15 +1,22 @@
-# Community
-This is a online student discussion website, it including following features:
-Tech Stack: SSM + MySQL + Redis + Kafka
-● Implemented a comprehensive online forum utilizing the Spring Boot and SSM framework. The project features a robust foundation with unified state management, meticulous transaction handling, and efficient exception management.
-● Implemented the login authentication system by applying a Spring Boot Interceptor to track user login status, using tokens for verification. Effectively addressed the issues associated with stateless HTTP.
-● Utilized Redis as a local cache to manage features like liking and mutual following, ensuring data integrity through transaction management. We maintained data consistency by adopting a strategy of "updating the database first and then deleting the cache."
-● Implemented Kafka as a message queue to deliver system alerts and leveraged the Producer-Consumer Pattern for asynchronous
-processing of user actions, including likes, comments, and followers, which promoted system decoupling and load balancing.
-● Implemented a multi-level cache system, utilizing Caffeine as the primary cache and Redis as the secondary cache, effectively
-mitigating cache avalanches. This enhancement resulted in a remarkable 30-fold increase in server processing speed during
-high-load conditions.
-● Implemented full-text search functionality with Elasticsearch, enabling precise matching of search results and highlighting
-keywords for an improved user experience.
-● Implemented robust permission controls and URL-based access management utilizing Spring Security. Differentiated access levels
-for students, faculty, and administrators within the forum.
+# Online Student Discussion Forum
+
+## Introduction
+The Online Student Discussion Forum is a comprehensive platform designed to facilitate interactive and collaborative discussions among students, faculty, and administrators in educational institutions. Developed with a focus on efficiency, reliability, and user experience, this forum serves as an essential tool for academic communication.
+
+## Features
+- Unified state management and transaction handling
+- Login authentication using tokens
+- Local caching for performance enhancement
+- Asynchronous processing with Kafka for system scalability
+- Multi-level caching strategy
+- Advanced full-text search capabilities
+- Robust permission controls for different user roles
+
+## Tech Stack
+- SSM
+- MySQL
+- Redis
+- Kafka
+- Spring Boot
+- Elasticsearch
+- Caffeine
